@@ -1,0 +1,11 @@
+{
+  "name": "cex-auto-seller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "evgeny32",
+  "license": "ISC"
+}
